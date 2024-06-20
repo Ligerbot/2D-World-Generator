@@ -19,3 +19,30 @@ it plays loud bass-boosted music.
 ![1](1.png)
 
 ![2](2.png)
+__Leaves__
+
+![leaf](leaves.png)
+
+__Log__
+
+![log](log.png)
+
+__Grass__
+
+![grass](grass.png)
+
+__Dirt__
+
+![dirt](dirt.png)
+
+__Stone__
+
+![stone](stone.png)
+
+__Copper__
+
+![copper ore](copper.png)
+
+__Gold__
+
+![gold](gold.png)
