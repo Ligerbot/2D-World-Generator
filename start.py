@@ -337,7 +337,14 @@ def tree(x,y):
 	turtle.forward(r*block_height*turtle_size_move-turtle_size_move)
 	turtle.goto(x-(3*block_width*turtle_size_move),y+(2*block_height*turtle_size_move))
 	if random.randint(1,2) == 2:
-		turtle.goto(turtle.xcor,turtle.ycor*block_height*turtle_size_move)
+                turtle.goto(turtle.xcor(), int(turtle.ycor()) - random.randint(-1,1) * block_height*turtle_size_move)
+                turtle.setheading(0)
+                leaf()
+                leaf()
+                leaf()
+                leaf()
+                leaf()
+
 	turtle.setheading(0)
 	leaf()
 	leaf()
