@@ -15,3 +15,5 @@ This should download and install the dependencies.
 
 __Warning!!!__ Turn your volume down when starting the game, because
 it plays loud bass-boosted music.
+![1(1.png)]
+![2(2.png)]
