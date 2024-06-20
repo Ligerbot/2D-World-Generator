@@ -9,6 +9,6 @@ To run this, you should download the project by doing
 ```
 git clone https://github.com/Ligerbot/2D-World-Generator 
 cd 2D-World-Generator/ 
-./Setup ```
-This should download and install the dependencies needed.
-
+./Setup 
+```
+This should download and install the dependencies
