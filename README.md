@@ -41,7 +41,7 @@ __Stone__
 
 __Copper__
 
-![copper ore](copper.png)
+![copper ore](copper2.png)
 
 __Gold__
 
