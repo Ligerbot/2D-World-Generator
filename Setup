@@ -1,0 +1,22 @@
+banner WARNING!!!
+sleep 3
+echo LOUD SONG TURN DOWN VOLUME
+sleep 3
+echo TURN VOLUME DOWNN NOW!!!
+sleep 5
+echo Installing/Reinstalling dependencies...
+echo Give me a few minutes...
+sleep 5
+sudo apt install python3-full
+python3 -m venv .venv
+source .venv/bin/activate
+pip3 install photoshop
+sudo pip3 install keyboard --break-system-packages
+sudo pip3 install pygame --break-system-packages
+pip install pynput
+pip3 install tk
+sudo python3 -m pip install opencv-python --break-system-packages
+sudo apt install python3-pip
+pip3 install opencv-python
+python3 music.py &
+sudo python3 start.py

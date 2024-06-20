@@ -1,0 +1,24 @@
+[THIS IS OUTDATED RUN SETUP SCRIPT!!!]
+
+Hello!
+Run './Setup' to install and run game!
+It is reccomended to just run the installer...
+If you want to install it yourself follow below instructions : 
+To set up the program, you need to make a virtual enviroment in python.
+You can do this by running 'sudo apt install python3-full'
+Then run 'python3 -m venv .venv' - This will create a virtual enviroment.
+After that run 'source .venv/bin/activate' - this opens virtual enviroment. (you should see (.venv) before your
+account name @ the hostname of your computer.
+then run 'pip3 install tk' this installs a turtle dependency.
+To get the cutscreens to work, 
+run 'sudo python3 -m pip install opencv-python --break-system-packages' and run 'sudo apt install python3-pip'
+pip3 install opencv-python'
+Finally, to start the game do 'sudo ./Survival_Island'. Controls :
+Left:
+Right:
+Jump:
+Mine:
+Place:
+Inventory:
+DISCLAIMER : This project was only tested on Ubuntu Linux. It is not gaurunteed to work on any other OS.
+If it isn't working, then watch the video.
